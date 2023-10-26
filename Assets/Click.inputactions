@@ -1,0 +1,34 @@
+{
+    "name": "Click",
+    "maps": [
+        {
+            "name": "Mouse",
+            "id": "47dc4e1e-957f-4bbe-ae35-037b9301a355",
+            "actions": [
+                {
+                    "name": "Click",
+                    "type": "Button",
+                    "id": "55c7ecd3-d9b3-414d-a0a2-a6995ff21fa2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "36fddbec-e5c7-478f-88b2-89144895ec67",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
